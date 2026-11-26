@@ -1,0 +1,9 @@
+# Raport: id (Bahasa Indonesia), review
+
+- I read the whole file next to the English. About 150 paragraphs were rewritten to sound like natural spoken narration instead of clipped headlines. Examples: "Dua gol Messi." became "Messi mencetak dua gol."; "Messi tiga puluh lima." became "Usia Messi tiga puluh lima."; fragments in 112, 173, 174, 188, 260 and 292 are now full sentences. "cetak" is now "mencetak" in many places.
+- Details restored: "Barcelona reached" (97), "di luar lapangan" (89), "istri dan tiga putra" (323) and "Julián Álvarez" (251). Also restored: "Tito's assistant" (172), "in their history" (274), "on his shoulders" (dropped again for length in 261) and "the World Cup" (242).
+- Two errors fixed: in 188 a draft said "final yang ia kalahkan", which means he beat someone, so it now says "final keempatnya yang kalah". In 164, Messi not scoring all tournament is now clear.
+- Terms: "el enano" stays "si kerdil". It is the standard word and milder than "cebol". The Falklands is now "Perang Falkland" instead of "Malvinas", because Falkland is the name an Indonesian child is more likely to have heard. The Spanish Cup stays "Copa del Rey", the usual name in Indonesian football media.
+- 250: changed to "Lihat apa kau, bodoh?", which is more natural. "bodoh" is mild and fine for children. 335: "secerewet ini" is kept. It is playful and self-mocking, Messi joking about himself, and fits the window.
+- Hard to fit: the Indonesian windows are very tight (many lines at 95–97%). These needed several passes: 2, 6, 29, 97, 146, 173, 194, 269, 278, 288, 290, 314 and 329. Some small details were moved or shortened to fit, for example "a few weeks" in 147 and "long" ovation in 316.
+- Uncertain: "ayah suporter" (275) for "football dad", and "tambahan lagi" (288) as a short form of "babak tambahan". The meaning-check agent should look at both.
