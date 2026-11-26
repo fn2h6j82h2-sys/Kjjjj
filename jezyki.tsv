@@ -1,0 +1,29 @@
+kolejnosc	kod	jezyk	zn_na_s	zrodlo
+1	es	hiszpański neutralny (bez vosotros, ma brzmieć dobrze w Argentynie, Hiszpanii i Meksyku)	14.98	pomiar
+2	ru	rosyjski	14.62	pomiar
+3	id	indonezyjski	14.12	pomiar
+4	pt-PT	portugalski z Portugalii (NIE brazylijski)	15.16	pomiar
+5	fr	francuski	17.52	pomiar
+6	vi	wietnamski	15.54	pomiar
+7	uz	uzbecki, łacinka	14.66	pomiar
+8	ar	arabski standardowy	10.56	pomiar
+9	tr	turecki	14.63	pomiar
+10	th	tajski	11.96	pomiar
+11	pl	polski	14.94	pomiar
+12	hu	węgierski	14.24	pomiar
+13	de	niemiecki	15.81	pomiar
+14	cs	czeski	13.77	pomiar
+15	ro	rumuński	14.57	pomiar
+16	sr	serbski, łacinka (jedna ścieżka też dla Chorwacji i Bośni — unikać słów typowo serbskich, gdy jest neutralne)	14.08	pomiar
+17	it	włoski	15.26	pomiar
+18	el	grecki	14.42	pomiar
+19	hi	hindi	12.34	pomiar
+20	zh	chiński mandaryński, znaki TRADYCYJNE (Tajwan, Hongkong, diaspora; w Chinach YouTube zablokowany)	4.97	pomiar
+rezerwa	bn	bengalski	12.75	pomiar
+rezerwa	ja	japoński	5.68	pomiar
+rezerwa	uk	ukraiński	13.89	pomiar
+rezerwa	ml	malajalam	14.64	pomiar
+rezerwa	ko	koreański	7.0	szacunek
+rezerwa	fa	perski	11.49	pomiar
+rezerwa	sw	suahili	13.49	pomiar
+rezerwa	nl	niderlandzki	15.98	pomiar
