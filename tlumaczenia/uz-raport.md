@@ -8,3 +8,19 @@
 - Joy yetmay qolgan detallar: 112 — "olti-nol" hisobi sigʻmadi (oltinchi gol aytilgan); 263 — "oʻyindan soʻng" va "Argentina yutqazgani" oʻrniga "yutqazgani"; 165 — "jurnalistlarga" tushib qoldi; 102 — "Messi oʻynasin" maqsadi "Messini yurtiga bogʻlash" deb qisqartirildi; 322 — "har kimga" tushib qoldi.
 - Qiyin sigʻganlar: 102, 104, 112, 242, 244, 256, 288 (oyna ±4% chegarasida). 144 tuzatildi ("Barselona ikki-nol yutib oldi.").
 - Noaniq: "sovuq koʻkrak" oʻzbekchada ibora emas, 168 da izoh bilan beriladi; 174/195 dagi "jahon finali" qisqa shakli qoldirildi.
+
+## Kontrola sensu
+Teskari tarjima (koʻr holda): `tlumaczenia/uz-wstecz.tsv` (318 akapit). EN bilan solishtirildi, quyidagilar tuzatildi:
+- 54: "uch-toʻrt daqiqada yetardi" (har doim yetardi degan maʼno) → "yetishi kerak edi" (EN: should have taken).
+- 61: Gaspart "klub rahbari" (prezident deb tushuniladi) → "klub rahbarlaridan biri" (EN: one of the directors).
+- 90: "bir kishi buni koʻrgandi" (nimani — noaniq) → "biri uning kuchini bilardi" (EN: had seen what he could do).
+- 102: "buni eshitib/bilib" va maqsad qaytarildi → "Maqsad: Messi oʻynab, yurtiga bogʻlansin" ("oʻrtoqlik" soʻzi sigʻmadi; "oʻynadi" bilan berildi).
+- 112: olti-nol hisobi yoʻq edi → "hisobni olti-nol qildi" (oltinchi gol = olti-nol gʻalaba).
+- 155: "uni quchoqladi" (kimni — noaniq) → "Guardiolani quchoqladi"; "hazillashdi" qoʻshildi (EN: joked). "Chetga yugurib" tushib qoldi.
+- 165: "xonada" → "kiyinish xonasida" (EN: dressing room). "Jurnalistlarga" va "koʻrdim" sigʻmadi.
+- 243: "ikki-bir" kim yutgani noaniq edi → "raqib ... ikki-bir yutdi".
+- 249/250: "Gollandiya" → "Niderlandiya" (165/129/105 bilan bir xil); "bir gollandiyalik" → "niderlandiyalik futbolchi" (EN: a Dutch player); "Shundan soʻng" → "Keyin".
+- 263: "eng yaxshi oʻyinchi sovrini" → "turnirning eng yaxshi oʻyinchisi sovrini" (177/106 bilan bir xil atama).
+- 290: "Messi gʻalaba goliga oshirdi" (noaniq) → "Messi gʻalaba golini uzatdi" (EN: crossed for the winner).
+- 295: "toʻp ham, imkoniyat ham ularda" → "Toʻp va imkon deyarli doim ularda" (EN: most of the match, almost every chance).
+Ataylab qoldirildi: 161 "tirik afsona" (god emas — bolalar va diniy sezgirlik uchun); 250 "tentak" (fool, yumshoq, haqoratli emas); 166 "aqlsiz" (stupid uchun yumshoq); 338 "yigʻloqi"; 200 "Ispaniyada" sigʻmadi (maʼno saqlangan); 322 "har kimga" yoʻq. Qoʻrqituvchi yoki qoʻpol soʻz topilmadi. `cel.py uz all` → W CELU ✔, `sprawdz.py uz` → GOTOWE ✔.
